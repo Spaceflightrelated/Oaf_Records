@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="78443841-8965-40f4-ac75-025e98e97e88" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/logos/oaf-logo-256x107.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/logos/oaf-logo-256x107.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/bands/haiku-like-imagination.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/bands/haiku-like-imagination.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/bands/haiku-like-imagination2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,17 +50,33 @@
       <option name="project" value="LOCAL" />
       <updated>1596058396359</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nav bar change 2">
+      <created>1596058812491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596058812491</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nav bar change" />
-    <option name="LAST_COMMIT_MESSAGE" value="nav bar change" />
+    <MESSAGE value="nav bar change 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="nav bar change 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1717" y="161" key="CommitChangelistDialog2" timestamp="1596058395802">
+    <state x="1717" y="161" key="CommitChangelistDialog2" timestamp="1596058811991">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
-    <state x="1717" y="161" key="CommitChangelistDialog2/0.0.2752.1122@0.0.2752.1122" timestamp="1596058395802" />
+    <state x="1717" y="161" key="CommitChangelistDialog2/0.0.2752.1122@0.0.2752.1122" timestamp="1596058811991" />
+    <state x="1657" y="297" key="Vcs.Push.Dialog.v2" timestamp="1596058815897">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state x="1657" y="297" key="Vcs.Push.Dialog.v2/0.0.2752.1122@0.0.2752.1122" timestamp="1596058815897" />
+    <state x="1466" y="106" width="1190" height="922" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1596061136687">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state x="1466" y="106" width="1190" height="922" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.2752.1122@0.0.2752.1122" timestamp="1596061136687" />
   </component>
 </project>
