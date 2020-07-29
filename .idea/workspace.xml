@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78443841-8965-40f4-ac75-025e98e97e88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/bands/stevie.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596062657752</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="profile pics">
+      <created>1596062735322</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596062735322</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -84,10 +93,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="profile pics" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1717" y="161" key="CommitChangelistDialog2" timestamp="1596062657216">
+    <state x="1717" y="161" key="CommitChangelistDialog2" timestamp="1596062734723">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
-    <state x="1717" y="161" key="CommitChangelistDialog2/0.0.2752.1122@0.0.2752.1122" timestamp="1596062657216" />
+    <state x="1717" y="161" key="CommitChangelistDialog2/0.0.2752.1122@0.0.2752.1122" timestamp="1596062734723" />
     <state x="1657" y="297" key="Vcs.Push.Dialog.v2" timestamp="1596058815897">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
