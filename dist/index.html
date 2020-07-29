@@ -110,10 +110,10 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/bands/stevie.jpg" alt="" />
+                                <img class="img-fluid" src="assets/img/bands/stevie2.jpg" alt="" />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Explore</div>
+                                <div class="portfolio-caption-heading">Stevie</div>
                                 <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
                             </div>
                         </div>
@@ -127,7 +127,7 @@
                                 <img class="img-fluid" src="assets/img/bands/haiku-like-imagination.jpg" alt="" />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Finish</div>
+                                <div class="portfolio-caption-heading">Haiku-Like Imagination</div>
                                 <div class="portfolio-caption-subheading text-muted">Identity</div>
                             </div>
                         </div>
@@ -138,10 +138,10 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/04-thumbnail.jpg" alt="" />
+                                <img class="img-fluid" src="assets/img/bands/inalab.jpg" alt="" />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Lines</div>
+                                <div class="portfolio-caption-heading">Inalab</div>
                                 <div class="portfolio-caption-subheading text-muted">Branding</div>
                             </div>
                         </div>
@@ -152,10 +152,10 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/05-thumbnail.jpg" alt="" />
+                                <img class="img-fluid" src="assets/img/bands/tangents2.jpg" alt="" />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Southwest</div>
+                                <div class="portfolio-caption-heading">Tangents</div>
                                 <div class="portfolio-caption-subheading text-muted">Website Design</div>
                             </div>
                         </div>
@@ -559,43 +559,43 @@
 			console.groupEnd();
 		</script>
 
-        <script>
-			$(function() {
-				$('a').on('click', function (e) {
-					if(gtag)
-						// ga('send', 'event', 'link', 'click', $(e.currentTarget).attr('data-event'));
-						if ($(e.currentTarget).attr('data-event')) {
-							gtag('event', 'click', { event_label :  $(e.currentTarget).attr('data-event') });
-						}
-						else
-							gtag('event', 'click', { event_label :  $(e.currentTarget).attr('href') });
-				});
-			});
-		</script>
+<!--        <script>-->
+<!--			$(function() {-->
+<!--				$('a').on('click', function (e) {-->
+<!--					if(gtag)-->
+<!--						// ga('send', 'event', 'link', 'click', $(e.currentTarget).attr('data-event'));-->
+<!--						if ($(e.currentTarget).attr('data-event')) {-->
+<!--							gtag('event', 'click', { event_label :  $(e.currentTarget).attr('data-event') });-->
+<!--						}-->
+<!--						else-->
+<!--							gtag('event', 'click', { event_label :  $(e.currentTarget).attr('href') });-->
+<!--				});-->
+<!--			});-->
+<!--		</script>-->
 
-        <script>
-			var interval;
+<!--        <script>-->
+<!--			var interval;-->
 
-			function slideshow() {
-				$.support.cors = true;
-				$.getJSON("https://api.giphy.com/v1/gifs/random?api_key=ZbyqHnJruSCuRBC1ZRYZVfl6ZVUr8qjj&tag=animation", null, function(response) {
-				}).always(function(response){
-					var id = response.data.id;
-					var image = response.data.image_original_url;
-					var fallback = "../img/oafrecords_fallback.jpg";
+<!--			function slideshow() {-->
+<!--				$.support.cors = true;-->
+<!--				$.getJSON("https://api.giphy.com/v1/gifs/random?api_key=ZbyqHnJruSCuRBC1ZRYZVfl6ZVUr8qjj&tag=animation", null, function(response) {-->
+<!--				}).always(function(response){-->
+<!--					var id = response.data.id;-->
+<!--					var image = response.data.image_original_url;-->
+<!--					var fallback = "../img/oafrecords_fallback.jpg";-->
 
-					$('#giffer').css('background-image', 'url(' + image + '), url(' + fallback + ')');
-				});
-			};
+<!--					$('#giffer').css('background-image', 'url(' + image + '), url(' + fallback + ')');-->
+<!--				});-->
+<!--			};-->
 
-			function next() {
-				clearInterval(interval);
-				slideshow();
-				interval = setInterval(slideshow, 7000);
-			}
-			interval = setInterval(slideshow, 7000);
+<!--			function next() {-->
+<!--				clearInterval(interval);-->
+<!--				slideshow();-->
+<!--				interval = setInterval(slideshow, 7000);-->
+<!--			}-->
+<!--			interval = setInterval(slideshow, 7000);-->
 
-			slideshow();
-		</script>
+<!--			slideshow();-->
+<!--		</script>-->
     </body>
 </html>

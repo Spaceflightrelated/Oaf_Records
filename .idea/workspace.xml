@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78443841-8965-40f4-ac75-025e98e97e88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/bands/stevie.jpg" afterDir="false" />
+    <list default="true" id="78443841-8965-40f4-ac75-025e98e97e88" name="Default Changelist" comment="profile pics">
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/bands/stevie2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/bands/stevie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596062735322</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="profile pics">
+      <created>1596062981985</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596062981985</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -93,10 +102,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="profile pics" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1717" y="161" key="CommitChangelistDialog2" timestamp="1596062734723">
+    <state x="686" y="179" key="CommitChangelistDialog2" timestamp="1596063866891">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
-    <state x="1717" y="161" key="CommitChangelistDialog2/0.0.2752.1122@0.0.2752.1122" timestamp="1596062734723" />
+    <state x="686" y="179" key="CommitChangelistDialog2/0.0.2752.1122@0.0.2752.1122" timestamp="1596063866891" />
     <state x="1657" y="297" key="Vcs.Push.Dialog.v2" timestamp="1596058815897">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
@@ -105,5 +114,9 @@
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
     <state x="1466" y="106" width="1190" height="922" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.2752.1122@0.0.2752.1122" timestamp="1596061136687" />
+    <state x="1875" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596063825680">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state x="1875" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2752.1122@0.0.2752.1122" timestamp="1596063825680" />
   </component>
 </project>
