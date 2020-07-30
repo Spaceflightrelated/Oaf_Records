@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78443841-8965-40f4-ac75-025e98e97e88" name="Default Changelist" comment="profile pics">
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/bands/stevie2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/oaf.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/bands/stevie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/bands/tangents2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/bands/tangents2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
     </list>
@@ -16,6 +16,13 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -26,11 +33,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Django/django_project" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/dist/index2.html" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -92,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596062981985</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="profile pics">
+      <created>1596064086219</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596064086219</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -102,10 +120,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="profile pics" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="686" y="179" key="CommitChangelistDialog2" timestamp="1596063866891">
+    <state x="1812" y="420" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596064738698">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
-    <state x="686" y="179" key="CommitChangelistDialog2/0.0.2752.1122@0.0.2752.1122" timestamp="1596063866891" />
+    <state x="1812" y="420" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2752.1122@0.0.2752.1122" timestamp="1596064738698" />
+    <state x="620" y="60" width="2044" height="1062" key="CommitChangelistDialog2" timestamp="1596064631861">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state x="620" y="60" width="2044" height="1062" key="CommitChangelistDialog2/0.0.2752.1122@0.0.2752.1122" timestamp="1596064631861" />
+    <state x="1470" y="100" width="1189" height="928" maximized="true" key="DiffContextDialog" timestamp="1596064914122">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state x="1470" y="100" width="1189" height="928" maximized="true" key="DiffContextDialog/0.0.2752.1122@0.0.2752.1122" timestamp="1596064914122" />
+    <state x="1845" y="319" key="FileChooserDialogImpl" timestamp="1596074131542">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state x="1845" y="319" key="FileChooserDialogImpl/0.0.2752.1122@0.0.2752.1122" timestamp="1596074131542" />
     <state x="1657" y="297" key="Vcs.Push.Dialog.v2" timestamp="1596058815897">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
