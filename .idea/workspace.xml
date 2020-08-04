@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78443841-8965-40f4-ac75-025e98e97e88" name="Default Changelist" comment="profile pics">
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/bands/Inalab2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/bands/Stevie3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/bands/ftp.png" afterDir="false" />
+    <list default="true" id="78443841-8965-40f4-ac75-025e98e97e88" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,24 +114,32 @@
       <option name="project" value="LOCAL" />
       <updated>1596076657397</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updated portfolio modal pics and bio">
+      <created>1596499209225</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596499209225</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nav bar change" />
     <MESSAGE value="nav bar change 2" />
     <MESSAGE value="profile pics" />
-    <option name="LAST_COMMIT_MESSAGE" value="profile pics" />
+    <MESSAGE value="Updated portfolio modal pics and bio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated portfolio modal pics and bio" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1812" y="420" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596064738698">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
     <state x="1812" y="420" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2752.1122@0.0.2752.1122" timestamp="1596064738698" />
-    <state x="620" y="60" width="2044" height="1062" key="CommitChangelistDialog2" timestamp="1596499158068">
+    <state x="620" y="60" width="2044" height="1062" key="CommitChangelistDialog2" timestamp="1596499208656">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
-    <state x="620" y="60" width="2044" height="1062" key="CommitChangelistDialog2/0.0.2752.1122@0.0.2752.1122" timestamp="1596499158068" />
+    <state x="620" y="60" width="2044" height="1062" key="CommitChangelistDialog2/0.0.2752.1122@0.0.2752.1122" timestamp="1596499208656" />
     <state x="1470" y="100" width="1189" height="928" maximized="true" key="DiffContextDialog" timestamp="1596064914122">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
