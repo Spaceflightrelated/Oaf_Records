@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78443841-8965-40f4-ac75-025e98e97e88" name="Default Changelist" comment="profile pics">
-      <change afterPath="$PROJECT_DIR$/dist/js/oaf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/bands/Inalab2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/bands/Stevie3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/bands/ftp.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/bands/tangents2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/bands/tangents2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
     </list>
@@ -35,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Django/django_project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -110,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596064086219</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="profile pics">
+      <created>1596076657397</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596076657397</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,18 +132,18 @@
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
     <state x="1812" y="420" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2752.1122@0.0.2752.1122" timestamp="1596064738698" />
-    <state x="620" y="60" width="2044" height="1062" key="CommitChangelistDialog2" timestamp="1596064631861">
+    <state x="620" y="60" width="2044" height="1062" key="CommitChangelistDialog2" timestamp="1596499158068">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
-    <state x="620" y="60" width="2044" height="1062" key="CommitChangelistDialog2/0.0.2752.1122@0.0.2752.1122" timestamp="1596064631861" />
+    <state x="620" y="60" width="2044" height="1062" key="CommitChangelistDialog2/0.0.2752.1122@0.0.2752.1122" timestamp="1596499158068" />
     <state x="1470" y="100" width="1189" height="928" maximized="true" key="DiffContextDialog" timestamp="1596064914122">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
     <state x="1470" y="100" width="1189" height="928" maximized="true" key="DiffContextDialog/0.0.2752.1122@0.0.2752.1122" timestamp="1596064914122" />
-    <state x="1845" y="319" key="FileChooserDialogImpl" timestamp="1596074131542">
+    <state x="1845" y="319" key="FileChooserDialogImpl" timestamp="1596125051244">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
-    <state x="1845" y="319" key="FileChooserDialogImpl/0.0.2752.1122@0.0.2752.1122" timestamp="1596074131542" />
+    <state x="1845" y="319" key="FileChooserDialogImpl/0.0.2752.1122@0.0.2752.1122" timestamp="1596125051244" />
     <state x="1657" y="297" key="Vcs.Push.Dialog.v2" timestamp="1596058815897">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
