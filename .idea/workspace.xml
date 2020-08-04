@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78443841-8965-40f4-ac75-025e98e97e88" name="Default Changelist" comment="">
+    <list default="true" id="78443841-8965-40f4-ac75-025e98e97e88" name="Default Changelist" comment="Updated nav bar titles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596500876944</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated nav bar titles">
+      <created>1596501265807</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1596501265807</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -137,17 +143,22 @@
     <MESSAGE value="profile pics" />
     <MESSAGE value="Updated portfolio modal pics and bio" />
     <MESSAGE value="Updated portfolio modal wit videos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated portfolio modal wit videos" />
+    <MESSAGE value="Updated nav bar titles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated nav bar titles" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1656" y="220" key="#Notifications" timestamp="1596501477396">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state x="1656" y="220" key="#Notifications/0.0.2752.1122@0.0.2752.1122" timestamp="1596501477396" />
     <state x="1812" y="420" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596064738698">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
     <state x="1812" y="420" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2752.1122@0.0.2752.1122" timestamp="1596064738698" />
-    <state x="620" y="60" width="2044" height="1062" key="CommitChangelistDialog2" timestamp="1596500876464">
+    <state x="620" y="60" width="2044" height="1062" key="CommitChangelistDialog2" timestamp="1596501413107">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
-    <state x="620" y="60" width="2044" height="1062" key="CommitChangelistDialog2/0.0.2752.1122@0.0.2752.1122" timestamp="1596500876464" />
+    <state x="620" y="60" width="2044" height="1062" key="CommitChangelistDialog2/0.0.2752.1122@0.0.2752.1122" timestamp="1596501413107" />
     <state x="1470" y="100" width="1189" height="928" maximized="true" key="DiffContextDialog" timestamp="1596064914122">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
@@ -156,10 +167,10 @@
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
     <state x="1845" y="319" key="FileChooserDialogImpl/0.0.2752.1122@0.0.2752.1122" timestamp="1596125051244" />
-    <state x="1657" y="297" key="Vcs.Push.Dialog.v2" timestamp="1596058815897">
+    <state x="1657" y="297" key="Vcs.Push.Dialog.v2" timestamp="1596501468691">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
-    <state x="1657" y="297" key="Vcs.Push.Dialog.v2/0.0.2752.1122@0.0.2752.1122" timestamp="1596058815897" />
+    <state x="1657" y="297" key="Vcs.Push.Dialog.v2/0.0.2752.1122@0.0.2752.1122" timestamp="1596501468691" />
     <state x="1466" y="106" width="1190" height="922" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1596061136687">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
